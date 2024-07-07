@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Level3
+comment0.text=\r\n\ Das\ dritte\ Level\!\r\n\ \r\n\ Parameter\:\r\n\ -\ 6\ Steinreihen\r\n\ -\ 20%\ der\ Steine\ werden\ statistisch\ gesetzt\r\n\ -\ Horizontale\ Geschwindigkeit\ von\ 15px\r\n\ \r\n\ @author\ 1MinutePlease\r\n
+comment1.params=
+comment1.target=Level3()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Level3.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ nextLevel()
+numComments=3

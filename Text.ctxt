@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Text
+comment0.text=\r\n\ Eine\ Textanzeige\r\n\ \r\n\ @author\ Paul\r\n
+comment1.params=text\ color\ fontSize\ width
+comment1.target=Text(java.lang.String,\ greenfoot.Color,\ int,\ int)
+comment1.text=\r\n\ Konstruieren\ der\ Anzeige.\r\n\ \r\n\ @param\ text\ Der\ Text\ der\ Anzeige\ (zentriert)\r\n\ @param\ color\ Die\ Farbe\r\n\ @param\ fontSize\ Die\ Schriftgr\u00F6\u00DFe\r\n\ @param\ width\ Die\ Breite\ der\ Anzeige\ (\u00FCberst\u00E4ndiger\ Text\ wird\ abgeschnitten)\r\n
+comment2.params=text
+comment2.target=void\ setText(java.lang.String)
+comment2.text=\r\n\ Methode\ zum\ ver\u00E4ndern\ des\ Textes\r\n\ \r\n\ @param\ text\ Der\ neue\ Text\r\n
+comment3.params=
+comment3.target=java.lang.String\ getText()
+comment3.text=\r\n\ Gibt\ den\ aktuellen\ Textwert\ zur\u00FCck\r\n
+numComments=4

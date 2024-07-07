@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BreakOutPaul
+comment0.text=\r\n\ Die\ abstrakte\ Klasse\ f\u00FCr\ die\ Level.\r\n\ Enth\u00E4lt\ die\ allgemeine\ Logik\ f\u00FCr\ die\ Level,\ die\ mithilfe\ des\ Konstruktors\ (Parameter)\ ver\u00E4ndert\ werden\ kann.\r\n\ \r\n\ Verlangt\ bei\ der\ Vererbung\ die\ Implementierung\ der\ `nextLevel()`-Methode.\r\n\ \r\n\ @author\ 1MinutePlease\r\n
+comment1.params=name\ verticalAmount\ probability\ velocity
+comment1.target=BreakOutPaul(java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ Konstruiert\ die\ Welt\ nach\ den\ gegebenen\ Parametern\ des\ Levels.\r\n\ \r\n\ @param\ name\ Name\ des\ Levels\r\n\ @param\ verticalAmount\ Die\ Anzahl\ an\ Reihen\ Steinen\r\n\ @param\ probability\ Die\ Wahrscheinlichkeit,\ dass\ ein\ Stein\ gesetzt\ wird\r\n\ @param\ velocity\ Die\ horizontale\ Geschwindigkeit\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Die\ immer\ wieder\ ausgef\u00FChrte\ Methode.\r\n\ \r\n\ Wenn\ noch\ kein\ Ball\ erstellt\ wurde\ und\ die\ Leertaste\ gedr\u00FCckt\ wird,\ wird\ ein\ neuer\ Ball\ erstellt.\r\n
+comment3.params=
+comment3.target=void\ onBrickBreak()
+comment3.text=\r\n\ Wenn\ ein\ Stein\ entfernt\ wird,\ wird...\r\n\ \r\n\ ...der\ Punktestand\ ge\u00E4ndert\ und\r\n\ ...falls\ keine\ Steine\ mehr\ vorhanden\ sind,\ ein\ neues\ Level\ nach\ einer\ Gewinnanzeige\ gestartet.\r\n
+comment4.params=
+comment4.target=void\ onBallDeath()
+comment4.text=\r\n\ Wenn\ der\ Ball\ an\ der\ unteren\ Kante\ der\ Welt\ herausfliegt,\ wird\ eine\ Verliereranzeige\ gezeigt\ und\ das\ Spiel\ gestoppt.\r\n
+comment5.params=
+comment5.target=void\ nextLevel()
+comment5.text=\r\n\ Die\ abstrakte\ Methode,\ die\ von\ den\ Level-Klassen\ implementiert\ werden\ muss.\r\n\ \r\n\ Wird\ beim\ Gewinn\ ausgef\u00FChrt.\r\n
+numComments=6

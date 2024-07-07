@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Paddel
+comment0.text=\r\n\ Das\ Paddel\ hilft\ dem\ Spieler\ dabei\ den\ Ball\ vor\ der\ unteren\ Kante\ abzulenken\ und\ damit\ weiterzuspielen.\r\n\ \r\n\ @author\ 1MinutePlease\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Bewegt\ sich\ entsprechend\ der\ Mauszeiger\ auf\ der\ horizontalen\ Achse\r\n
+numComments=2

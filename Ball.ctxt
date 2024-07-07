@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\r\n\ Der\ Ball,\ mit\ dem\ die\ Steine\ zerst\u00F6rt\ werden\ und\ der\ vom\ Paddel\ abgelenkt\ wird,\ und\ somit\ im\ Spiel\ gehalten\ wird.\r\n\ \r\n\ @author\ 1MinutePlease\r\n
+comment1.params=velocity
+comment1.target=Ball(int)
+comment1.text=\r\n\ Der\ Konstruktor\ des\ Balls\r\n\ \r\n\ Setzt\ die\ Geschwindigkeiten\r\n\ \r\n\ @param\ velocity\ Die\ horizontale\ Geschwindigkeit\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Bewegt\ sich\ mit\ den\ gesetzten\ Geschwindikeiten.\r\n\ \r\n\ Schaut\ nach\ Kontakt\ mit\ Stein\ oder\ Paddel,\ in\ dem\ Fall\ er\ umgelenkt\ wird.\r\n\ Au\u00DFerdem\ wird\ geschaut,\ ob\ es\ Wandkontakt\ gibt\:\ Ball\ wird\ abgelenkt\ au\u00DFer\ an\ der\ Unterkante\ der\ Welt\r\n
+comment3.params=
+comment3.target=void\ checkBoundaries()
+comment3.text=\r\n\ Pr\u00FCft\ auf\ Wandkontakt\:\r\n\ \r\n\ oben\:\ abgelenkt\r\n\ seitlich\:\ abgelenkt\r\n\ unten\:\ Ende\ des\ Spiels\r\n
+comment4.params=
+comment4.target=void\ checkBrickContact()
+comment4.text=\r\n\ Bei\ Kontakt\ zu\ einem\ Stein\ wird\ der\ Stein\ entfernt\ und\ der\ Ball\ abgelenkt\r\n
+comment5.params=
+comment5.target=void\ checkPaddelContact()
+comment5.text=\r\n\ Bei\ Kontakt\ mit\ dem\ Paddel\ wird\ der\ Ball\ abgelenkt\r\n
+numComments=6

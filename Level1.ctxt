@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Level1
+comment0.text=\r\n\ Das\ erste\ Level\!\r\n\ \r\n\ Parameter\:\r\n\ -\ 3\ Steinreihen\r\n\ -\ 70%\ der\ Steine\ werden\ statistisch\ gesetzt\r\n\ -\ Horizontale\ Geschwindigkeit\ von\ 5px\r\n\ \r\n\ @author\ 1MinutePlease\r\n
+comment1.params=
+comment1.target=Level1()
+comment2.params=
+comment2.target=void\ nextLevel()
+comment2.text=\r\n\ Startet\ das\ zweite\ Level\ bei\ einem\ Sieg.\r\n
+numComments=3
